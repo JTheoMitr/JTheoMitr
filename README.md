@@ -1,8 +1,4 @@
-John Theo Mitropoulos
-
-React | Javascript | Ruby on Rails | Max/MSP
-
-Lover of music, crypto, and ramen
+Hey there 👋  I'm John.  I have a degree in DSP programming (from Berklee College of Music) and a certification in Full Stack Software Development (Flatiron School).  My thesis at school was built around the combination of music and education; two things I'm very passionate about.  I wanted to develop programs that taught kids (K-5 primarily) math through music.  Post-graduation I continued my work, and also found a new hobby in the form of cryptocurrency and decentralized finance.  In addition to some of my other projects, I'm currently building a fully functioning crypto exchange to act as a training tool for crypto-trading newcomers.  I'm always up to collaborate so feel free to reach out!
 
 <!---
 JTheoMitr/JTheoMitr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
