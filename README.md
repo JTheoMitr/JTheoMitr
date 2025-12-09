@@ -1,4 +1,4 @@
-Hey there 👋,  I'm John.  I have a degree in DSP programming (from Berklee College of Music) and a certification in Full Stack Software Engineering (from Flatiron School).  My thesis at Berklee College was built around the combination of music and education; two things I'm very passionate about.  I'm currently working as a mobile engineer for DirecTV, and spend my weekends coding video games. Let's connect!
+Hey there 👋,  I'm John.  I have a degree in DSP programming (from Berklee College of Music) and a certification in Full Stack Software Engineering (from Flatiron School).  My thesis at Berklee College was built around the combination of music and education; two things I'm very passionate about.  I'm currently working as a STEM instructor at a local school in Austin, Texas, and spend my weekends coding video games. Let's connect!
 
 <!---
 JTheoMitr/JTheoMitr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
